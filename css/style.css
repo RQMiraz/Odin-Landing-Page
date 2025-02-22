@@ -82,6 +82,8 @@ header .container{
     border: none;
     border-radius: 8px;
     margin-top: 10px;
+    color: white;
+    font-weight: bold;
 }
 
 .box-container .box{
